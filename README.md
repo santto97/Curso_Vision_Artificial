@@ -1,2 +1,2 @@
-# act1.VA
-primer trabajo de vision artificial 
+# Curso de vision artificial 
+primer trabajo de vision artificial en la carpeta VISION ARTIFICIAL
