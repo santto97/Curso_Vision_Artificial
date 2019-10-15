@@ -1,2 +1,2 @@
 # Curso de vision artificial 
-primer trabajo de vision artificial en la carpeta VISION ARTIFICIAL
+Repositorio de actividades del curso de Visión Artificial UNAL sede Medellin 2019-2
